@@ -17,7 +17,6 @@
 		<config-file parent="/*" target="AndroidManifest.xml" />
 
 		<source-file src="src/android/DeviceMeta.java" target-dir="src/com/ozexpert/devicemeta/DeviceMeta" />
-		<source-file src="src/android/Utils.java" target-dir="src/com/ozexpert/devicemeta/Utils" />
 	</platform>
 	<platform name="ios">
 		<config-file parent="/*" target="config.xml">
